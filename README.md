@@ -94,3 +94,9 @@ Please follow instrucction in the [Instructions_rpi.md](Instructions_rpi.md) fil
 
 ## Acknowledgement
 > This is a Fork of the repository [Prakyathkantharaju/HIL_toolkit](https://github.com/Prakyathkantharaju/HIL_toolkit). Please visit there for updated version.
+
+
+> ## Updates in this fork
+> Using RGPE meathod.
+> Using multi objectives.
+
